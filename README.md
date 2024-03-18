@@ -125,9 +125,7 @@ ___
 `code`
 
 * [ ] Checkbox1
-
 * [ ] Checkbox2
-
 * [x] Checkbox selected
 
 
