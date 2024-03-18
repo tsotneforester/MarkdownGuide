@@ -107,7 +107,14 @@ ___
 [![alt](src "title")](link)
 ```
 
-<h2 align="center" name="image">Emoji</h2>
+<h2 align="center" name="image">Table</h2>
+
+```sh
+| name | surname | age |
+| :--- | :-----: | --: |
+| 4 | 5 | 6 |
+```
+
 
 > blockquote1
 >
@@ -129,10 +136,7 @@ Terminal
 const hello= "hello";
 ```
 
-table
-| name | surname | age |
-| :--- | :-----: | --: |
-| 4 | 5 | 6 |
+
 
 Back To Top
 <a name="readme-top"></a>
