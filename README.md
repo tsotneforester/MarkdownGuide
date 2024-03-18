@@ -95,7 +95,7 @@
 <h2 align="center" name="image">Image</h2>
 
 ```html
- <p align="center"><img align="center" width="65px" src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif"></p>
+ <p align="center"><img align="center" width="65px" title="winnie" src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif"></p>
 ```
 
 
@@ -103,7 +103,10 @@
 ![txt](src "title")
 [![txt](src "title")](link)
 ```
-![zorg1](https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif "zorg")
+
+ <p align="center"><img align="center" width="65px" title="winnie" src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif"></p>
+
+![img](https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif "pooh")
 
 
 > blockquote1
