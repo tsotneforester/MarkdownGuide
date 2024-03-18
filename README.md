@@ -78,20 +78,24 @@
 ```
 
 <h2 align="center" name="list">Link</h2>
-```sh
 
+```sh
 [hi](link)
 <https://www.markdownguide.org>
-
 ```
 
 
-image
+<h2 align="center" name="image">Image</h2>
 
+```html
  <p align="center"><img src=""></p>
-
+```
+```sh
 ![txt](src "title")
 [![txt](src "title")](link)
+```
+
+
 
 > blockquote1
 >
