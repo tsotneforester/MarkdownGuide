@@ -123,10 +123,15 @@ ___
 > > > blockquote3
 
 `code`
+<h2 align="center" name="checkbox">Checkbox</h2>
 
+```sh
 * [ ] Checkbox1
 * [ ] Checkbox2
 * [x] Checkbox selected
+```
+
+
 
 
 Terminal
