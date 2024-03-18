@@ -5,12 +5,21 @@
 
 <h4 name="readme-top">Table of Contents</h4>
 
-<a href="#headers">Headers</a> <br>
+<a href="#header">Header</a> <br>
 <a href="#emphesize">Emphesize</a> <br>
 <a href="#line">Line</a> <br>
+<a href="#list">List</a> <br>
+<a href="#link">Link</a> <br>
+<a href="#image">Image</a> <br>
+<a href="#table">Table</a> <br>
+<a href="#checkbox">Checkbox</a> <br>
+<a href="#footnote">Footnote</a> <br>
+<a href="#quote">Quote</a> <br>
 <a href="#alert">Alert</a> <br>
+<a href="#resources">Resources</a> <br>
 
-<h2 align="center" name="headers">Headers</h2>
+
+<h2 align="center" name="header">Header</h2>
 
 ```sh
 # Heading 1 (with underline)
@@ -24,7 +33,7 @@
 
 
 ```html
-<h1 align="center">About The Project</h1>
+<h1 align="center">This is `true`</h1>
 ```
 
 <h2 align="center" name="emphesize">Emphesize</h2>
@@ -66,7 +75,7 @@ ___
 2. item 2 
 ```
 
-<h2 align="center" name="list">Link</h2>
+<h2 align="center" name="link">Link</h2>
 
 ```sh
 [hi](link)
@@ -91,7 +100,7 @@ ___
 [![alt](src "title")](link)
 ```
 
-<h2 align="center" name="image">Table</h2>
+<h2 align="center" name="table">Table</h2>
 
 ```sh
 | name | surname | age |
@@ -153,7 +162,7 @@ Here is a simple footnote[^1].
 ```
 
 
-<h2 align="center" name="resource">Resources</h2>
+<h2 align="center" name="resources">Resources</h2>
 
 [Terminal gif][1]   
 [Typing svg][2]   
