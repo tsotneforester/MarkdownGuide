@@ -112,7 +112,7 @@ ___
 ```sh
 | name | surname | age |
 | :--- | :-----: | --: |
-| 4 | 5 | 6 |
+| 4    | 5       | 6   |
 ```
 
 
@@ -124,11 +124,9 @@ ___
 
 `code`
 
-* [ ] Checkbox1
-
-* [ ] Checkbox2
-
-* [x] Checkbox selected
+[ ] Checkbox1
+[ ] Checkbox2
+[x] Checkbox selected
 
 Terminal
 
