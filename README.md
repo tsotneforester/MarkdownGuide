@@ -1,6 +1,8 @@
 <h1 align="center">Perosnal Guide of <br> Readme Markdown Syntax  </h1>
 <a name="readme-top" href="#headers">Headers</a> <br>
 <a name="readme-top" href="#emphesize">Emphesize</a>
+<a name="readme-top" href="#line">Line</a>
+<a name="readme-top" href="#alert">Alert</a>
 
 <h2 align="center" name="headers">Headers</h2>
 
@@ -26,25 +28,30 @@
 | `*italic*` | `**bold**`|`__*table*__`        |
 
 
-**bold** - `**bold**`
 
-_italic_ - `_italic_`
 
-**_italic + Bold_** - `**_italic + Bold_**`
+
 
 ```html
 <strong>bold</strong>
+<b>bold</b>
+
+<em>italic</em>
+<i>italic</i>
 ```
 
-# HR
+<h2 align="center" name="line">Line</h2>
 
 ```html
-<hr />
+<hr /> / ---
 ```
 
-`---`
 
-# Alerts
+
+
+
+
+<h2 align="center" name="alert">Alerts</h2>
 
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
