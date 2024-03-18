@@ -103,7 +103,7 @@
 ![txt](src "title")
 [![txt](src "title")](link)
 ```
-![zorg1](https://github.com/darsaveli/Mariam/blob/main/14w79814528_webarebears.gif "zorg")
+![zorg1](https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif "zorg")
 
 
 > blockquote1
