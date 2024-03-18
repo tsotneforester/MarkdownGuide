@@ -97,7 +97,8 @@
 ```html
  <p align="center"><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif"></p>
 ```
-<img align="center" width="65px" src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif">
+ <p align="center"><img align="center" width="65px" src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif"></p>
+
 
 
 ```sh
