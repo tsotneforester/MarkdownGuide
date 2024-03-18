@@ -100,13 +100,13 @@
 
 
 ```sh
-![txt](src "title")
-[![txt](src "title")](link)
+![alt](src "title")
+[![alt](src "title")](link)
 ```
 
 
 
-![img](https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif=250x250 "pooh" )
+![img](https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif =250x250 "pooh" )
 
 
 > blockquote1
