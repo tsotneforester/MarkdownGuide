@@ -124,11 +124,11 @@ ___
 
 `code`
 
-[ ] Checkbox1
+* [ ] Checkbox1
 
-[ ] Checkbox2
+* [ ] Checkbox2
 
-[x] Checkbox selected
+* [x] Checkbox selected
 
 
 Terminal
