@@ -41,7 +41,10 @@
 <h2 align="center" name="line">Line</h2>
 
 ```html
-<hr /> / ---
+<hr />
+---
+***
+___
 ```
 
 
@@ -104,6 +107,7 @@
 [![alt](src "title")](link)
 ```
 
+<h2 align="center" name="image">Emoji</h2>
 
 > blockquote1
 >
@@ -112,6 +116,12 @@
 > > > blockquote3
 
 `code`
+
+* [ ] Checkbox1
+
+* [ ] Checkbox2
+
+* [x] Checkbox selected
 
 Terminal
 
