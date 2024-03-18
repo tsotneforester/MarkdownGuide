@@ -54,29 +54,7 @@ ___
 ```
 
 
-<h2 align="center" name="alert">Alerts</h2>
 
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-
-```sh
-
->[!NOTE]/[!TIP]/[!IMPORTANT]/[!WARNING]/[!CAUTION]
->Advises about risks or negative outcomes of certain actions.
-
-```
 
 <h2 align="center" name="list">List</h2>
 
@@ -121,19 +99,7 @@ ___
 | 4    | 5       | 6   |
 ```
 
-<h2 align="center" name="quote">Quote</h2>
 
-```sh
-> blockquote1
-> > blockquote2
-> > > blockquote3
-```
-> blockquote1
-> > blockquote2
-> > > blockquote3
-
-
-`code`
 <h2 align="center" name="checkbox">Checkbox</h2>
 
 ```sh
@@ -147,6 +113,43 @@ ___
 ```sh
 Here is a simple footnote[^1].
 [^1]: My reference.
+```
+
+
+<h2 align="center" name="quote">Quote</h2>
+
+```sh
+> blockquote1
+> > blockquote2
+> > > blockquote3
+```
+> blockquote1
+> > blockquote2
+> > > blockquote3
+
+
+<h2 align="center" name="alert">Alerts</h2>
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
+
+```sh
+
+>[!NOTE]/[!TIP]/[!IMPORTANT]/[!WARNING]/[!CAUTION]
+>Advises about risks or negative outcomes of certain actions.
+
 ```
 
 
