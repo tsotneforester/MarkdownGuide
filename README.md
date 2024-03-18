@@ -95,8 +95,11 @@
 <h2 align="center" name="image">Image</h2>
 
 ```html
- <p align="center"><img src=""></p>
+ <p align="center"><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif"></p>
 ```
+<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif">
+
+
 ```sh
 ![txt](src "title")
 [![txt](src "title")](link)
