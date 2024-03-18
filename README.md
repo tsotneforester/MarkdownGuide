@@ -1,8 +1,15 @@
 <h1 align="center">Perosnal Guide of <br> Readme Markdown Syntax  </h1>
 
-# Heading
+### Headers
 
-`# About The Project`
+```sh
+# Heading 1 (with underline)
+## Heading 2 (with underline)
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+```
 
 ```html
 <h1 align="center">About The Project</h1>
