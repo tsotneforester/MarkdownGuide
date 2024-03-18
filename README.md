@@ -70,19 +70,20 @@
 <h2 align="center" name="list">List</h2>
 
 ```html
-- item
-- item
+-/* item
+-/* item
 
 1. item 1
 2. item 2 
+```
 
+<h2 align="center" name="list">Link</h2>
+```sh
+[hi](link)
+<https://www.markdownguide.org>
 
+```
 
-
-<!----------------------------------- Link -------------------------------->
-<!-- [hi](link) -->
-<!-- <https://www.markdownguide.org> -->
-<!-- <fake@example.com> -->
 
 image
 
