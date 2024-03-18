@@ -121,12 +121,17 @@ ___
 | 4    | 5       | 6   |
 ```
 
+<h2 align="center" name="quote">Quote</h2>
 
+```sh
 > blockquote1
->
 > > blockquote2
-> >
 > > > blockquote3
+```
+> blockquote1
+> > blockquote2
+> > > blockquote3
+
 
 `code`
 <h2 align="center" name="checkbox">Checkbox</h2>
@@ -153,7 +158,9 @@ Here is a simple footnote[^1].
 [GitHub Stats][4]   
 [Skill Icons][5]   
 [Shields.io 1][6]   
-[Shields.io 2][7]   
+[Shields.io 2][7]
+[Official Github Blog for Markdown][8]
+[Emoji][9]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,6 +171,8 @@ Here is a simple footnote[^1].
 [5]:https://github.com/tandpfun/skill-icons?ref=reactjsexample.com
 [6]:https://shields.io/badges/static-badge
 [7]:https://simpleicons.org/
+[8]:https://github.blog/changelog/label/markdown/
+[9]:https://github.com/ikatyang/emoji-cheat-sheet
 
 
 
