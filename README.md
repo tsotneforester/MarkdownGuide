@@ -19,6 +19,13 @@
 
 <h2 align="center" name="emphesize">Emphesize</h2>
 
+|            |           |                     |
+| ---------- | ------    | ------------------- |
+| _italic_   | __bold__  | _italic_ + __bold__ |
+| `_italic_` | `__bold__`| `_**table**_`       |
+| `*italic*` | `**bold**`|`__*table*__`        |
+
+
 **bold** - `**bold**`
 
 _italic_ - `_italic_`
