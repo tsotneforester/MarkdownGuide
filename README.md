@@ -1,5 +1,7 @@
 <h1 align="center">Perosnal Guide of <br> Readme Markdown Syntax  </h1>
-<h4 name="readme-top" align="center">Table of Contents</h4>
+
+<h4 name="readme-top">Table of Contents</h4>
+
 <a href="#headers">Headers</a> <br>
 <a href="#emphesize">Emphesize</a> <br>
 <a href="#line">Line</a> <br>
