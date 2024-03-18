@@ -1,7 +1,6 @@
 <h1 align="center">Perosnal Guide of <br> Readme Markdown Syntax  </h1>
 <a name="readme-top" href="#headers">Headers</a>
-
----
+<a name="readme-top" href="#emphesize">Emphesize</a>
 
 <h2 align="center" name="headers">Headers</h2>
 
@@ -18,7 +17,7 @@
 <h1 align="center">About The Project</h1>
 ```
 
-# Emphesize
+<h2 align="center" name="emphesize">Emphesize</h2>
 
 **bold** - `**bold**`
 
