@@ -1,5 +1,4 @@
-<h1 align="center">Perosnal Guide of </h1>
-<h1 align="center">Readme Markdown Syntax </h1>
+<h1 align="center">Perosnal Guide of <br> Readme Markdown Syntax  </h1>
 
 # Heading
 
