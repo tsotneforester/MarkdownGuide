@@ -95,17 +95,15 @@
 <h2 align="center" name="image">Image</h2>
 
 ```html
- <p align="center"><img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif"></p>
-```
  <p align="center"><img align="center" width="65px" src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif"></p>
-
+```
 
 
 ```sh
 ![txt](src "title")
 [![txt](src "title")](link)
 ```
-
+![zorg](https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif "zorg")
 
 
 > blockquote1
