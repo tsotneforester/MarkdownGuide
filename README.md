@@ -1,8 +1,8 @@
 <h1 align="center">Perosnal Guide of <br> Readme Markdown Syntax  </h1>
 <a name="readme-top" href="#headers">Headers</a> <br>
-<a name="readme-top" href="#emphesize">Emphesize</a>
-<a name="readme-top" href="#line">Line</a>
-<a name="readme-top" href="#alert">Alert</a>
+<a name="readme-top" href="#emphesize">Emphesize</a> <br>
+<a name="readme-top" href="#line">Line</a> <br>
+<a name="readme-top" href="#alert">Alert</a> <br>
 
 <h2 align="center" name="headers">Headers</h2>
 
