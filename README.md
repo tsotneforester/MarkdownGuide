@@ -158,9 +158,9 @@ Here is a simple footnote[^1].
 [GitHub Stats][4]   
 [Skill Icons][5]   
 [Shields.io 1][6]   
-[Shields.io 2][7]
-[Official Github Blog for Markdown][8]
-[Emoji][9]
+[Shields.io 2][7]   
+[Official Github Blog for Markdown][8]   
+[Emoji][9]   
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
