@@ -137,9 +137,6 @@ ___
 * [x] Checkbox selected
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-Footnotes
 <h2 align="center" name="footnote">Footnote</h2>
 
 ```sh
@@ -158,6 +155,7 @@ Here is a simple footnote[^1].
 [Shields.io 1][6]   
 [Shields.io 2][7]   
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [1]:https://www.terminalgif.com/
 [2]:https://readme-typing-svg.demolab.com/demo/
