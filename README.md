@@ -150,13 +150,13 @@ Here is a simple footnote[^1].
 
 <h2 align="center" name="resource">Resources</h2>
 
-[Terminal gif][1]
-[Typing svg][2]
-[GitHub Summary][3]
-[GitHub Stats][4]
-[Skill Icons][5]
-[Shields.io 1][6]
-[Shields.io 2][7]
+[Terminal gif][1]   
+[Typing svg][2]   
+[GitHub Summary][3]   
+[GitHub Stats][4]   
+[Skill Icons][5]   
+[Shields.io 1][6]   
+[Shields.io 2][7]   
 
 
 [1]:https://www.terminalgif.com/
