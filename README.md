@@ -4,7 +4,7 @@
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
-<h3 align="center" name="headers">Headers</h3>
+<h2 align="center" name="headers">Headers</h2>
 
 ```sh
 # Heading 1 (with underline)
