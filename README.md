@@ -1,8 +1,9 @@
 <h1 align="center">Perosnal Guide of <br> Readme Markdown Syntax  </h1>
-<a name="readme-top" href="#headers">Headers</a> <br>
-<a name="readme-top" href="#emphesize">Emphesize</a> <br>
-<a name="readme-top" href="#line">Line</a> <br>
-<a name="readme-top" href="#alert">Alert</a> <br>
+<h4 name="readme-top" align="center">Table of Contents</h4>
+<a href="#headers">Headers</a> <br>
+<a href="#emphesize">Emphesize</a> <br>
+<a href="#line">Line</a> <br>
+<a href="#alert">Alert</a> <br>
 
 <h2 align="center" name="headers">Headers</h2>
 
@@ -134,16 +135,10 @@ ___
 
 
 
-Terminal
-
-```sh
-const hello= "hello";
-```
-
 
 
 Back To Top
-<a name="readme-top"></a>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
