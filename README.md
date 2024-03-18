@@ -21,15 +21,11 @@
 
 <h2 align="center" name="emphesize">Emphesize</h2>
 
-|            |           |                     |                  |
-| ---------- | ------    | ------------------- |------------------|
-| _italic_   | __bold__  | _italic_ + __bold__ |~~Strikethrough~~ |
-| `_italic_` | `__bold__`| `_**table**_`       |`~~Strikethrough``|
-| `*italic*` | `**bold**`|`__*table*__`        |                  |
-
-
-
-
+|            |           |                     |                 |
+| ---------- | ------    | ------------------- |-----------------|
+| _italic_   | __bold__  | _italic_ + __bold__ |~~Strikethrough~~|
+| `_italic_` | `__bold__`| `_**table**_`       |`~~Strikethrough`|
+| `*italic*` | `**bold**`|`__*table*__`        |                 |
 
 
 ```html
@@ -45,10 +41,6 @@
 ```html
 <hr /> / ---
 ```
-
-
-
-
 
 
 <h2 align="center" name="alert">Alerts</h2>
@@ -75,13 +67,17 @@
 
 ```
 
-# List
+<h2 align="center" name="list">List</h2>
 
-<!-- - item -->
-<!-- - item -->
+```html
+- item
+- item
 
-<!-- 1. item 1 -->
-<!-- 2. item 2 -->
+1. item 1
+2. item 2 
+
+
+
 
 <!----------------------------------- Link -------------------------------->
 <!-- [hi](link) -->
