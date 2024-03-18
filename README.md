@@ -137,30 +137,36 @@ ___
 * [x] Checkbox selected
 ```
 
-
-
-
-
-
-Back To Top
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 Footnotes
+<h2 align="center" name="footnote">Footnote</h2>
 
+```sh
 Here is a simple footnote[^1].
 [^1]: My reference.
+```
 
-Visuals
 
-https://www.terminalgif.com/
-https://readme-typing-svg.demolab.com/demo/
-https://github-profile-summary-cards.vercel.app/demo.html
-https://github.com/anuraghazra/github-readme-stats
-https://github.com/tandpfun/skill-icons?ref=reactjsexample.com
+<h2 align="center" name="resource">Resources</h2>
 
-# badge
+[Terminal gif][1]
+[Typing svg][2]
+[GitHub Summary][3]
+[GitHub Stats][4]
+[Skill Icons][5]
+[Shields.io 1][6]
+[Shields.io 2][7]
 
-https://shields.io/badges/static-badge
-https://simpleicons.org/
+
+[1]:https://www.terminalgif.com/
+[2]:https://readme-typing-svg.demolab.com/demo/
+[3]:https://github-profile-summary-cards.vercel.app/demo.html
+[4]:https://github.com/anuraghazra/github-readme-stats
+[5]:https://github.com/tandpfun/skill-icons?ref=reactjsexample.com
+[6]:https://shields.io/badges/static-badge
+[7]:https://simpleicons.org/
+
+
+
+
