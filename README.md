@@ -1,7 +1,7 @@
 <h1 align="center">Perosnal Guide of <br> Readme Markdown Syntax  </h1>
 <a name="readme-top" href="#headers">Headers</a>
 
-## <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+---
 
 <h2 align="center" name="headers">Headers</h2>
 
