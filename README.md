@@ -68,8 +68,8 @@ ___
 <h2 align="center" name="list">List</h2>
 
 ```html
--/* item
--/* item
+- item
+- item
 
 1. item 1
 2. item 2 
