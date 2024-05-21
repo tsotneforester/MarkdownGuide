@@ -180,7 +180,7 @@ Here is a simple footnote[^1].
 [2]:https://readme-typing-svg.demolab.com/demo/
 [3]:https://github-profile-summary-cards.vercel.app/demo.html
 [4]:https://github.com/anuraghazra/github-readme-stats
-[5]:https://github.com/tandpfun/skill-icons?ref=reactjsexample.com
+[5]:https://skillicons.dev/
 [6]:https://shields.io/badges/static-badge
 [7]:https://simpleicons.org/
 [8]:https://github.blog/changelog/label/markdown/
